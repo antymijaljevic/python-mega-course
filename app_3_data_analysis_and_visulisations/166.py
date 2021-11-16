@@ -1,0 +1,1 @@
+# pip3 install justpy, pandas, pytz, matplotlib, jupyter
